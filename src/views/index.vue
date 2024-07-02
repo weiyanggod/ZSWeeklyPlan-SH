@@ -21,7 +21,7 @@
           </el-dropdown-menu>
         </template>
       </el-dropdown>
-      <span>项目对接计划(上海分部)</span>
+      <span>项目对接计划(驻上海工作部)</span>
     </div>
     <div
       v-for="(item, index) in dataList"
